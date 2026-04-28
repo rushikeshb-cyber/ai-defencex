@@ -1,4 +1,5 @@
-# System dependencies used in project
+# Project Dependencies / Environment
+
 Wazuh Server
 Suricata IDS
 Ubuntu Server
